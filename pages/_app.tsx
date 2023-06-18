@@ -1,5 +1,5 @@
 export default function Home(): JSX.Element {
   return (
-    <p>Hola Javier! ey ooo eyy ooo</p>
+    <p>Hola Formula student</p>
   )
 }
